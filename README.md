@@ -2,7 +2,7 @@
 
 This is the PyTorch implementation for **CLDS** proposed in the paper **Robust Social Recommendation based on Contrastive Learning and Dual-Stage Graph Neural Network**.
 
-> Gang-Feng Ma, Xu-Hua Yang, Haixia Long, Yanbo Zhou, and Xin-Li Xu. 2024.
+> Gang-Feng Ma, Xu-Hua Yang, Haixia Long, Yanbo Zhou, and Xin-Li Xu. 2024. Neurocomputing
 
 ## Datasets
 
